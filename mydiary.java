@@ -1,4 +1,4 @@
-package part1;
+
 
 public class mydiary {
     public static void main(String[] args) {
